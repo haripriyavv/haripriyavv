@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Haripriya
 
-<!--
-**haripriyavv/haripriyavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **Full Stack Developer** based in Hyderabad
 
-Here are some ideas to get you started:
+  I build production web apps with React, FastAPI, MongoDB & AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### What I'm working on
+  - Full-Stack E-Commerce Platform (React 19 + FastAPI + MongoDB)
+    - 3 Dockerized services | REST APIs | Razorpay Payments | Deployed on AWS
+
+  ### Tech Stack
+  **Frontend:** React 19, Zustand, Vite, JavaScript, CSS3
+  **Backend:** Python, FastAPI, MongoDB
+  **Cloud:** AWS (Lightsail, S3), Docker
+  **Integrations:** Razorpay, Google OAuth
+
+  ### Data Science
+  - Telecom Churn Prediction (92% accuracy, XGBoost)
+  - Book Recommendation Engine
+  - Sentiment Analysis (NLP)
+
+  ### Contact
+  haripriya4501@gmail.com | [LinkedIn](https://linkedin.com/in/haripriya-v-608692280)
+
